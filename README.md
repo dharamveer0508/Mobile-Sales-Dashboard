@@ -74,4 +74,4 @@ Strategic Decision-Making
 Enabled data-driven pricing, promotion, and expansion decisions.
 
 * Screenshots
-Example: https://github.com/dharamveer0508/Mobile-Sales-Dashboard/blob/main/Mobiles%20Sales%20Dashboard.pbit
+Example: https://github.com/dharamveer0508/Mobile-Sales-Dashboard/blob/main/Dashboard_screenshot.png
