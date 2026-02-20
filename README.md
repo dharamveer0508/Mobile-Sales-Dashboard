@@ -1,8 +1,8 @@
-Mobile sales dashboard
+* Mobile sales dashboard
 
 Developed an interactive Mobile Sales Dashboard using Power BI to analyze sales performance, revenue trends, and regional distribution. Implemented data cleaning, DAX measures, and dynamic visualizations to track KPIs such as total sales, profit, top-selling brands, and monthly growth. Published the project on GitHub with documentation and insights for better business decision-making.
 
-Tech Stack
+* Tech Stack
 List the key technologies used to build the dashboard.
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
@@ -11,7 +11,7 @@ The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-Data Source
+* Data Source
 Source: Sample Mobile Sales Dataset (Retail Sales Data)
 The dataset contains transactional-level sales data of mobile phones across multiple regions and time periods.
 It includes:
@@ -27,7 +27,7 @@ It includes:
 The data was cleaned and transformed using Power Query, and calculated measures were created using DAX for KPIs and trend analysis.
 
 
-Business Problem
+* Business Problem
 
 The mobile retail market is highly competitive, with multiple brands, regions, and sales channels contributing to revenue.
 However, stakeholders often struggle to quickly answer key questions such as:
@@ -38,7 +38,7 @@ Which sales channel performs better — Online or Offline?
 Where is profitability declining?
 Raw data tables make it difficult to extract actionable insights quickly.
 
-Goal of the Dashboard
+* Goal of the Dashboard
 
 To build an interactive and dynamic Power BI dashboard that:
 Tracks overall sales performance in real time
@@ -47,7 +47,7 @@ Analyzes monthly and quarterly growth trends
 Evaluates profitability and sales channel effectiveness
 Supports data-driven decision-making for business growth
 
-Walkthrough of Key Visuals
+* Walkthrough of Key Visuals
 📌 Key KPIs (Top Section)
 
 💰 Total Sales
@@ -73,3 +73,5 @@ Helped management understand whether online or offline sales channels are more p
 Strategic Decision-Making
 Enabled data-driven pricing, promotion, and expansion decisions.
 
+* Screenshots
+Example: https://github.com/dharamveer0508/Mobile-Sales-Dashboard/blob/main/Mobiles%20Sales%20Dashboard.pbit
